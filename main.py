@@ -1,7 +1,7 @@
 from discord.ext import commands
 import pandas as pd
 
-TOKEN = "OTYyMTQwNjAyMTEwMjA1OTky.YlDNQw.nvys_F_iSBL4HjQi2MF3Jy1Saes"
+TOKEN = "TOKEN"
 
 # Initialize Bot and Denote The Command Prefix
 bot = commands.Bot(command_prefix="!")
